@@ -1,5 +1,5 @@
 # Polynomial
 
-This is my project from CS112 at Rutgers University. 
+CS112 project at Rutgers University. 
 
 
